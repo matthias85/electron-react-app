@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
+import PropTypes from 'prop-types';
 
-
-import './toolbar.css'
+import './toolbar.pcss'
 
 class Toolbar extends Component {
     render() {
